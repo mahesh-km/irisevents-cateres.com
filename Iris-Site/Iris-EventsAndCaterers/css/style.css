@@ -290,6 +290,59 @@ header .intro-text {
 	color: #555;
 	margin-top: -26px;
 }
+/* Services Section */
+#services {
+	padding: 0 0 60px 0;
+}
+#services .section-title {
+	background: #444 url(../img/menu-bg.jpg) center center no-repeat fixed;
+	background-size: cover;
+}
+#services .section-title h2 {
+	color: #fff;
+}
+#services img {
+	width: 300px;
+	box-shadow: 15px 0 #a7c44c;
+}
+#services h3 {
+	padding: 10px 0;
+	text-transform: uppercase;
+}
+#services .menu-section hr {
+	margin: 0 auto;
+}
+#services .menu-section {
+	margin: 0 20px 80px;
+}
+#services .menu-section-title {
+	font-size: 26px;
+	display: block;
+	font-weight: 500;
+	color: #444;
+	margin: 20px 0;
+	text-align: center;
+}
+#services .menu-item {
+	margin: 35px 0;
+	font-size: 18px;
+}
+#services .menu-item-name {
+	font-weight: 600;
+	font-size: 17px;
+	color: #555;
+	border-bottom: 2px dotted rgb(213, 213, 213);
+}
+#services .menu-item-description {
+	font-style: italic;
+	font-size: 15px;
+}
+#services .menu-item-price {
+	float: right;
+	font-weight: 600;
+	color: #555;
+	margin-top: -26px;
+}
 /* Portfolio Section */
 #portfolio {
 	padding: 0 0 120px 0;
